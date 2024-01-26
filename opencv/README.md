@@ -27,8 +27,19 @@
 
 
 ## 任务2描述：
-这里有一张图片：![](https://github.com/megumi-ovo/openCV-Homework/blob/master/Julia.jpg?raw=true)
-请将这个图片的6个图分别提取出来，生成6张图片
-最后将图片混合成：
-![](https://github.com/megumi-ovo/openCV-Homework/blob/master/Mandelbrot.jpg?raw=true)
+识别装甲板，我们在RM赛场总要识别装甲板，由于分为红蓝双方我们需要对灯条进行判断，实现图片中的功能
+原图片：
+
+![](https://img-blog.csdnimg.cn/ad7c029bf2674677b05faaa8f8b221f6.gif)
+实现像下面一样的效果：
+![](https://img-blog.csdnimg.cn/635ac48f3dbd4c63a112719fd7c90936.gif)
+
+O（**这里只是提供思路，可能有别的方法也能做到同样的效果**）
+   + 读写图片（tips: 注意可执行文件和图片相对路径的问题）
+   + 二值化
+   + 形态学滤波
+   + 图像轮廓提取
+   + 通道相减
+   
+
 
