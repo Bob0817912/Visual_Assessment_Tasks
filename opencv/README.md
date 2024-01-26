@@ -2,7 +2,7 @@
 
 主要考察大家对OpenCV基本操作的理解
 
-## 任务描述
+## 任务1描述
 > 有一张放在珍珠棉上的口罩的图片，需要大家能够实现下面这样的效果
 
 **将img里面的是src.jpg**
@@ -24,3 +24,11 @@
 
 ## 提供的参数
 口罩的长宽比大致为 17:9
+
+
+## 任务2描述：
+这里有一张图片：![](https://github.com/megumi-ovo/openCV-Homework/blob/master/Julia.jpg?raw=true)
+请将这个图片的6个图分别提取出来，生成6张图片
+最后将图片混合成：
+![](https://github.com/megumi-ovo/openCV-Homework/blob/master/Mandelbrot.jpg?raw=true)
+
