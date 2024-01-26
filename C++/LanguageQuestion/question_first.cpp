@@ -15,10 +15,22 @@
 
  */
 
- #include<iostream>
+ #include <iostream>
+#include <string>
 
- int main()
- {
-     //请填写你的代码
-     return 0;
- }
+class Person {
+
+
+    // 参数化构造函数
+    Person(const std::string& personName, int personAge) {
+        
+    }
+
+    // 成员函数 display，用于打印姓名和年龄
+    void display() const {
+    }
+};
+
+int main() {
+    //实现你的功能
+}

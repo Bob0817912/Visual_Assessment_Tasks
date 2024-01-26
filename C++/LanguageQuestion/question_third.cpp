@@ -32,9 +32,7 @@ using namespace std;
 class LongestIncreasingSubsequence {
 public:
     static pair<int, vector<int>> findLongestIncreasingSubsequence(const vector<int>& nums) {
-        // TODO: Add your code here to find the longest increasing subsequence
-
-        // Placeholder values, replace with actual implementation
+        // TODO: 添加你的代码，实现你的功能
         int maxLength = 0;
         vector<int> longestSubsequence;
 

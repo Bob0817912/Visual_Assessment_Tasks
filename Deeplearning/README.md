@@ -3,7 +3,7 @@
 使用yolo，cpp/python完整的完成一个目标跟踪与预测，需要将预测点或者预测bbox可视化，也就是在imshow图上画出，目标可以为可口可乐或者百事可乐或者雪碧。
 
 ## 数据集
-+ 自己拍摄视频，截出来，通过labelimg来标注
++ 自己拍摄视频，截出来，通过labelimg/labelme来标注
 + 去[kaggle](https://www.kaggle.com/datasets)寻找，但是质量不能保证
 
 ## 学习资料
