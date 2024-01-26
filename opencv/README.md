@@ -5,8 +5,10 @@
 ## 任务描述
 > 有一张放在珍珠棉上的口罩的图片，需要大家能够实现下面这样的效果
 
->![](https://github.com/nishangyumei/Assessment/blob/main/opencv/assets/src.jpg?raw=true)
+![](/home/suibian/Assessment_winter/opencv/img/src.jpg)
+
 ![](https://img-qn.51miz.com/Element/00/75/76/41/dec41646_E757641_81d62569.png!/quality/90/unsharp/true/compress/true/format/png/fw/300)
+
 ![](https://github.com/nishangyumei/Assessment/blob/main/opencv/assets/result.jpg?raw=true)
 ## 可能用到的知识点
 1. CMake

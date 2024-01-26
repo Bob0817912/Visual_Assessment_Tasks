@@ -1,7 +1,7 @@
 # Assessment_winter
 Visual winter vacation assessment
 ## Require
-* Complete at least 4 tasks, the more you complete, the better
+* Complete at least 2 tasks, the more you complete, the better
 
 * it is prohibited to use AI tools to write code. You can use AI to help you, but you cannot plagiarize the AI code. If you are found to have plagiarized the AI code during the use of detection methods, you will be responsible for the consequences.
 
