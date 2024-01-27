@@ -1,31 +1,56 @@
-# Assessment_winter
-Visual winter vacation assessment
-## Require
-* **You have to complete at least two tasks in winter vacation**, They are tasks rather than modules. Each module has its own independent tasks. You only need to complete the tasks.
+# HDU PHOENIX 战队 2025 赛季视觉组寒假考核
 
-* it is prohibited to use AI tools to write code. You can use AI to help you, but you cannot plagiarize the AI code. If you are found to have plagiarized the AI code during the use of detection methods, you will be responsible for the consequences.
+本次任务**5选3**，多做不加分。
 
-* If you want to do this task, first you need to fork the project, then clone it to your local computer, and then upload it to your github remote warehouse. I will go to each of your warehouses to review your completion.
+**重要：请在 ubuntu 环境下完成所有考核**  
+**不要虚拟机**  
+**不要虚拟机**  
+**不要虚拟机**
 
-## Notice
-* Please read ["The Wisdom of Asking Questions"](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
-carefully and abide by the rules I taught in class before. If you have any questions, ask them directly in the group instead of contacting the seniors privately. Of course, if it is a personal question, you can contact the person you want Senior to contact
-## module
-+ C++
-+ OpenCv
-+ DeepLearning 
-+ math
-+ BigDeal
-## Expand knowledge
-**Maybe you don’t want to do big homework and math questions, then you can learn something else.**
+本 `README` 仅有任务的简要描述，具体要求请查看子文件夹的 `README`。
 
-you can study something else
-such as:
-+ docker
-+ ros2
-+ Unity
-+ C#
-+ Verilog
-+ Blender
-+ letter of agreement
-……
+## 任务1：OpenCV
+
+使用 `cpp` 完成以下任务，提交代码和运行结果。
+
++ 不适用 `cv` 提供的库函数，用三种方式实现图像的二值化（提示：遍历 `cv::Mat` 有几种方式？）
++ 使用 `canny` 算子实现图像的边缘检测
++ 对给定图片上的回形针进行计数
++ 将给定图片进行腐蚀、膨胀、开运算、闭运算，调整算子形状和大小，观察运算结果
++ 将一张 `RGB` 图片转换为 `HSV` 图片，调整 `HSV` 图片的 `H`、`S`、`V` 通道，观察运算结果
++ 开启摄像头，实时显示摄像头画面。
+  + 选做：如何使用手机摄像头？（提示：互联网通信）
++ 对给定图片进行伽马矫正
++ 提取口罩
+
+## 任务2：DeepLearning
+
+等待吃外星人的xj
+
+## 任务3：C++/Algorithm
+
+以下为必做：
+
++ 完善 `Matrix` 类
++ 完成三个 question
++ 救救学姐
+
+以下为可选：
+
++ 实现一个进程间通信（IPC）框架
++ 压缩一张位图
++ 实现一个坐标系转换类
+
+## 任务4：证明黎曼猜想
+
+> 黎曼猜想（或称黎曼假设）是关于黎曼ζ函数ζ(s)的零点分布的猜想，由数学家波恩哈德·黎曼于1859年提出。黎曼观察到，素数的频率紧密相关于一个精心构造的所谓黎曼zeta函数ζ(s)的性态。复平面上使黎曼ζ 函数取值为零的点被称为黎曼ζ函数的零点。s=-2n （n 为正整数）是黎曼 ζ 函数的零点，这些零点分布有序、 性质简单，被称为黎曼ζ 函数的平凡零点 (trivial zero)。除了这些平凡零点外，黎曼ζ函数还有许多其它零点，它们的性质远比那些平凡零点来得复杂，被称为非平凡零点 (non-trivial zeros)。
+>
+> 在黎曼猜想的研究中， 数学家们把复平面上 Re(s)=1/2 的直线称为 critical line（临界线）。运用这一术语，黎曼猜想也可以表述为：黎曼ζ 函数的所有非平凡零点都位于 critical line 上。即黎曼ζ 函数的所有非平凡零点都位于复平面上 Re(s)=1/2 的直线上（Re(s)表示复数s的实数部分）。
+> 
+> (百度百科)
+
+请证明：黎曼 ζ 函数的所有平凡零点都位于复平面上 Re(s)=1/2 的直线上。给出详细、严谨的证明过程。
+
+## 任务5：证明哥德巴赫猜想
+
+请证明：任何一个大于2的偶数都可以表示成两个质数之和。给出详细、严谨的证明过程。
