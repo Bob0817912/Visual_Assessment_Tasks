@@ -5,7 +5,7 @@
 ## 任务1描述
 > 有一张放在珍珠棉上的口罩的图片，需要大家能够实现下面这样的效果
 
-**将img里面的是src.jpg**
+**将img里面的src.jpg**
 
 ![](https://img-qn.51miz.com/Element/00/75/76/41/dec41646_E757641_81d62569.png!/quality/90/unsharp/true/compress/true/format/png/fw/300)
 
