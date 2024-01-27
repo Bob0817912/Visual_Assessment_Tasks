@@ -32,7 +32,7 @@
 ## 提取口罩
 > 有一张放在珍珠棉上的口罩的图片，需要大家能够实现下面这样的效果
 
-![](https://images.null-qwerty.top/phoenix/mask_on_ground.jpg)
+![](./img/src.jpg)
 
 转换为
 
