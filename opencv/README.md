@@ -7,7 +7,7 @@
 
 **将img里面的src.jpg**
 
-![](https://img-qn.51miz.com/Element/00/75/76/41/dec41646_E757641_81d62569.png!/quality/90/unsharp/true/compress/true/format/png/fw/300)
+转换为
 
 ![](https://github.com/nishangyumei/Assessment/blob/main/opencv/assets/result.jpg?raw=true)
 ## 可能用到的知识点
