@@ -1,4 +1,4 @@
-#**选做**
+# **选做**
 
 ### 任务描述：(涉及到数学的知识)
 1.这里有一张图片：![](https://github.com/megumi-ovo/openCV-Homework/blob/master/Julia.jpg?raw=true)
