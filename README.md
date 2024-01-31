@@ -23,6 +23,12 @@
 + 对给定图片进行伽马矫正
 + 提取口罩
 
+选做：曼德博集合
+
+使用任一开源图形图像库，画出 `math` 中 `README` 中的函数图像。  
+可选语言有： Python、C、C++  
+可使用 matlab 或 mathematica 研究函数性质，但不可使用 matlab 或 mathematica 画图 : )
+
 ## 任务2：DeepLearning
 
 等待吃外星人的xj
