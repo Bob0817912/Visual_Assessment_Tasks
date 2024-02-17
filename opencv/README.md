@@ -10,7 +10,7 @@
 结果例：  
 ![](https://images.null-qwerty.top/phoenix/count_res.png)
 
-## 形态学处理
+## 形态学处理 
 
 ![](https://images.null-qwerty.top/phoenix/形态学处理.png)
 
