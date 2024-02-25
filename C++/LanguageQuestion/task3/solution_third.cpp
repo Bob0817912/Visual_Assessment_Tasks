@@ -35,6 +35,7 @@ public:
                 longestSubsequence = Subsequence;
             }
         }
+        longestSubsequence.push_back(nums[temp]);
         return { maxLength, longestSubsequence };
     }
     static int dg(int i,const vector<int>& nums){
