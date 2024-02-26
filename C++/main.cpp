@@ -18,7 +18,7 @@
  * Matrix Matrix::operator*(Matrix &other)                          20 points
  * 2. 在正常运行的基础上，若还有其他的功能，则按以下标准进行评分：
  * Matrix::Matrix(int rows, int cols, int** matrix)                 10 points
- * template <...> Matrix::Matrix(int (&matrix)[rows][cols])         10 points
+ * template <size_t rows, size_t cols> Matrix::Matrix(int (&matrix)[rows][cols])        10 points
  * Matrix::Matrix(const Matrix& other)                              10 points
  * Matrix::Matrix(Matrix&& other)                                   10 points
  * Matrix& Matrix::operator=(const Matrix& other)                   10 points
